@@ -17,10 +17,8 @@ fastapi-cache2==0.2.1
 fastapi-limiter==0.1.5
 redis==4.5.5
 cachetools==5.3.2
-jinja2
 pyjwt
 bcrypt
 cryptography
 passlib
 python-jose
-python-multipart
